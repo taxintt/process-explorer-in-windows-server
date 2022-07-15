@@ -1,0 +1,8 @@
+# dir
+.terraform
+
+# file
+*.tfvars
+*.tfstate
+*.tfstate.backup
+*.pem
