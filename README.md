@@ -1,5 +1,19 @@
 # process-explorer-in-windows-server
 
+## prerequisites
+
+```bash
+❯ terraform -v
+Terraform v1.1.3
+on darwin_arm64
++ provider registry.terraform.io/hashicorp/aws v3.75.2
++ provider registry.terraform.io/hashicorp/local v2.2.3
++ provider registry.terraform.io/hashicorp/tls v3.4.0
+
+Your version of Terraform is out of date! The latest version
+is 1.2.5. You can update by downloading from https://www.terraform.io/downloads.html
+```
+
 ## 0. create dev.tfvars
 
 ```bash
